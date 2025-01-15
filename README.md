@@ -6,6 +6,16 @@
   ![snake gif](https://github.com/dr-montasir/dr-montasir/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+In the realm of code 💻 where logic thrives,  
+Data whispers secrets 🤫,  
+new insights it derives.  
+Solar rays ☀️ flow,  
+powering dreams so bright,  
+Mathematics 📊 weaves patterns  
+in the day and night.  
+Together they spark a future,  
+alive and wise! ✨
+
 <!--
 **dr-montasir/dr-montasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
